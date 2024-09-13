@@ -8,7 +8,7 @@ Este projeto implementa um semáforo simples utilizando HTML, CSS e JavaScript. 
 
 ![image](https://github.com/user-attachments/assets/15ccf7ab-8d22-4567-b98e-bf286cb3814b)
 
-[CLIQUE PARA ACESSAR]()
+[CLIQUE PARA ACESSAR](https://jp-beltran.github.io/Sinal/)
 
 
 ## Funcionalidades
