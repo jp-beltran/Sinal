@@ -33,16 +33,6 @@ body{
     border-radius: 100px;
 }
 
-#vermelho{
+#vermelho, #amarelo, #verde{
     background-color: black;
-}
-
-#amarelo{
-    background-color: black;
-
-}
-
-#verde{
-    background-color: black;
-
 }
