@@ -12,9 +12,9 @@ function changeColor(){
     if(indice === 0){
         red.style.backgroundColor = "red";
     }else if(indice === 1){
-        yellow.style.backgroundColor = "green";
+        green.style.backgroundColor = "green";
     }else if(indice === 2){
-        green.style.backgroundColor = "yellow";
+        yellow.style.backgroundColor = "yellow";
     }
 
     indice = (indice + 1) % 3;
@@ -22,4 +22,3 @@ function changeColor(){
 }
 
 let intervalId = setInterval(changeColor, 1500);
-
