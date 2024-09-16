@@ -21,5 +21,5 @@ function changeColor(){
 
 }
 
-let intervalId = setInterval(changeColor, 3000);
+let intervalId = setInterval(changeColor, 1500);
 
