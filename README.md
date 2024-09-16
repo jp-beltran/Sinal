@@ -15,9 +15,9 @@ Este projeto implementa um semáforo simples utilizando HTML, CSS e JavaScript. 
 
 ## Funcionalidades
 - Alternância automática entre as cores do semáforo.
-- Luz verde: 3 segundos 🕐
-- Luz amarela: 3 segundos 🕐
-- Luz vermelha: 3 segundos 🕐
+- Luz verde: 1,5 segundos 🕐
+- Luz amarela: 1,5 segundos 🕐
+- Luz vermelha: 1,5 segundos 🕐
 
 ## Tecnologias Utilizadas
 
